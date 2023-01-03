@@ -41,7 +41,7 @@ class UserStorage {
         users.id.push[userInfo.id];
         users.psword.push[userInfo.psword];
         return {success: true};
-
+//dd
     }
 }
 
